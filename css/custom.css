@@ -49,15 +49,11 @@
 
     color: #fff;
 
-    font-weight: 400;
+    font-weight: 800;
 
     letter-spacing: 1px;
 
     line-height: 1.9;
-
-    margin-bottom: 40px;
-
-    padding: 40px;
 }
 
 .stacks li{
@@ -117,3 +113,26 @@
 .read{
     text-decoration: none;
 }
+
+.subtitle{
+    font-size: 30px;
+
+    line-height: 1;
+
+    color: #fff;
+
+    margin: 0 0 25px;
+
+    font-family: 'Cute Font', cursive;
+
+    text-align: center;
+}
+
+.contact-form{
+    font-family: 'Poppins', sans-serif;
+
+    font-size: 14px;
+
+    color: #fff;
+}
+
