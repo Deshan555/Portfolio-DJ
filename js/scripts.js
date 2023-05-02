@@ -52,3 +52,8 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+
+let Scrollbar = window.Scrollbar;
+
+Scrollbar.init(document.querySelector('#page-top'));
