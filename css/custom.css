@@ -136,3 +136,16 @@
     color: #fff;
 }
 
+.stacks ul li img:hover{
+
+    transition: all 0.30s ease;
+
+    transform: translateY(-5px);
+}
+
+.stacks ul li a{
+    
+        text-decoration: none;
+    
+        color: #fff;
+}
